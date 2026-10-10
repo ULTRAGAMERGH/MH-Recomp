@@ -1,2 +1,2 @@
-# MH-Recomp
-Play the classics Monster Hunter games with more features!
+# MH: Recomp
+Play the classic Monster Hunter saga better than ever!
