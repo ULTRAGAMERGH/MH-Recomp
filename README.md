@@ -13,4 +13,7 @@ Monster Hunter Freedom is a 2005 action role-playing game developed and publishe
 
 • Dual-screen setup: Use the second screen to view the action just like on the Nintendo 3DS (AYN Thor exclusive)
 
+•
+
 # Available games
+For now, only the European version of Monster Hunter Freedom is available. In a few weeks or months, I'll bring in Freedom 2 and Freedom Unite.
